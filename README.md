@@ -40,8 +40,3 @@ def verificar_stock(cantidad):
 - [Ver Políticas de Seguridad](docs/seguridad.md)
 - [Ver Historial de Cambios (CHANGELOG)](CHANGELOG.md)
 - [Repositorio Oficial en GitHub](https://github.com/gaps3600/documentacion-sistema-v1-)
-
-
-# Portal Web de Documentación
-
-**Sitio Web en Vivo:** [Haz clic aquí para ver la Documentación Publicada](https://documentacion-sistema-v1-jet.vercel.app/)
