@@ -23,7 +23,7 @@ Esta sección documenta los servicios web (Web API) disponibles para la integrac
 ```json
 {
   "status": 200,
-  "message": "Usuario registrado exitosamente",
+  "message": "Usuario registrado exitosamente", 
   "data": {
     "id": 105,
     "nombre": "Carlos López",
