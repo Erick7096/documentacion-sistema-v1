@@ -12,3 +12,10 @@ de negocio.
 * **Almacenamiento:** 20 GB SSD.
 * **Red:** Dirección IP Pública, puertos 80 (HTTP), 443 (HTTPS) y 5432 (PostgreSQL) abiertos.
 * **Sistema Operativo Base:** Linux Ubuntu Server 22.04 LTS.
+
+## 3. Despliegue con Docker
+### Construcción de la Imagen
+Para empaquetar el portal web, ejecuta en la terminal:
+`docker build -t portal-documentacion:v1 .`
+### Ejecución del Contenedor
+`docker run -d -p 8080:80 --name servidor-docu portal-documentacion:v1`
