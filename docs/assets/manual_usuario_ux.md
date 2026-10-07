@@ -8,7 +8,7 @@ A continuación se muestra el recorrido visual de las pantallas dentro de la apl
 ---
 ## 2. Paso a Paso: Cómo Iniciar Sesión
 Para acceder a tu cuenta en la aplicación, realiza las siguientes acciones:
-![Pantalla de Inicio de Sesión](assets/login_anotado.png)
+![Pantalla de Inicio de Sesión](assets/login_anotado.png.png)
 1. **Correo Electrónico (1):** Ingresa la dirección de correo con la que creaste tu cuenta.
 2. **Contraseña (2):** Escribe tu clave de acceso personal.
 3. **Boton 'Ingresar' (3):** Presiona el botón azul para entrar a tu pantalla principal.
