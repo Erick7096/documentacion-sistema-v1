@@ -44,3 +44,4 @@ def verificar_stock(cantidad):
 (ejemplo: [](https://erick7096.github.io/documentacion-sistema-v1/)).
 
 https://youtu.be/miCfQekehN4?si=psy6AUDs9MtjTHWJ
+
