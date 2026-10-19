@@ -45,12 +45,30 @@ def verificar_stock(cantidad):
 
 https://youtu.be/miCfQekehN4?si=psy6AUDs9MtjTHWJ
 
-## Galería de imágenes
+## Galería de imágenes del sistema
 
-![Pantalla del sistema](docs/assets/pantalla.png)
+### 1. Pantalla principal
+![Pantalla principal del sistema](docs/assets/pantalla.png)
 
+### 2. Inicio de sesión
+![Inicio de sesión anotado](docs/assets/login_anotado.png.png)
+
+### 3. Registro de usuario
+![Registro de usuario](docs/assets/registro_anotado.png)
+
+### 4. Diagrama de casos de uso
 ![Diagrama de casos de uso](docs/assets/casos_de_uso.png)
 
-## Video tutorial
+### 5. Flujo de navegación
+![Flujo de navegación](docs/assets/flujo_navegacion.png)
 
-[Ver video tutorial en YouTube] https://youtu.be/miCfQekehN4?si=psy6AUDs9MtjTHWJ
+### 6. Diagrama de secuencia de autenticación
+![Secuencia de autenticación](docs/assets/secuencia_autenticacion.png)
+
+## Video tutorial del sistema
+
+Mira el video para conocer el funcionamiento del sistema.
+
+[▶ Ver video tutorial en YouTube](https://youtu.be/miCfQekehN4)
+
+[📁 Ver o descargar el video MP4](docs/videos/videotutorial_proyecto.mp4)
