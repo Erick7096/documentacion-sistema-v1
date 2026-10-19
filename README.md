@@ -45,3 +45,12 @@ def verificar_stock(cantidad):
 
 https://youtu.be/miCfQekehN4?si=psy6AUDs9MtjTHWJ
 
+## Galería de imágenes
+
+![Pantalla del sistema](docs/assets/pantalla.png)
+
+![Diagrama de casos de uso](docs/assets/casos_de_uso.png)
+
+## Video tutorial
+
+[Ver video tutorial en YouTube] https://youtu.be/miCfQekehN4?si=psy6AUDs9MtjTHWJ
