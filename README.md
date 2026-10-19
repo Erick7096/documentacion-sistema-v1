@@ -41,6 +41,11 @@ def verificar_stock(cantidad):
 - [Ver Historial de Cambios (CHANGELOG)](CHANGELOG.md)
 - [Repositorio Oficial en GitHub](https://github.com/gaps3600/documentacion-sistema-v1-)
 
+## Licencia y Gobernanza
+* Este proyecto se distribuye bajo los términos de la **[Licencia MIT](LICENSE)**.
+* Consulta nuestra **[Guía de Contribución](CONTRIBUTING.md)** para reportar fallos o
+proponer mejoras.
+
 (ejemplo: [](https://erick7096.github.io/documentacion-sistema-v1/)).
 
 https://youtu.be/miCfQekehN4?si=psy6AUDs9MtjTHWJ
